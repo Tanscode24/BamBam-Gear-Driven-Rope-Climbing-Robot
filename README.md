@@ -63,7 +63,9 @@ Electronics integration
 Mechanical assembly and debugging
 
 # Demo
-DSC03133.JPG
+<p align="center">
+  <img src="DSC03133.JPG" width="400"/>
+</p>
 
 # License
 MIT License
