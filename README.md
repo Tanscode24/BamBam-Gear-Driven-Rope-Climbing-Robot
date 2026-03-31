@@ -63,9 +63,7 @@ Electronics integration
 Mechanical assembly and debugging
 
 # Demo
-<p align="center">
-  <img src="DSC03133.JPG" width="400"/>
-</p>
+![String Crawl Bot](./DSC03133.JPG)
 
 # License
 MIT License
