@@ -43,27 +43,27 @@
 - Integration of mechanical and electronic systems
 
 # Challenges and Solutions
-Slipping on rope → Improved grip mechanism
-Low torque → Optimized gear ratio
-Misalignment → Refined assembly and structure
-Weight issues → Used lightweight materials
+- Slipping on rope → Improved grip mechanism
+- Low torque → Optimized gear ratio
+- Misalignment → Refined assembly and structure
+- Weight issues → Used lightweight materials
 
 # Future Improvements
-Add Arduino for automation
-Wireless control (Bluetooth/WiFi)
-Better gripping mechanism
-Increased load capacity
+- Add Arduino for automation
+- Wireless control (Bluetooth/WiFi)
+- Better gripping mechanism
+- Increased load capacity
 
 # Skills Learned
-CAD design (Fusion 360)
-Gear system design
-3D printing
-Laser cutting
-Electronics integration
-Mechanical assembly and debugging
+- CAD design (Fusion 360)
+- Gear system design
+- 3D printing
+- Laser cutting
+- Electronics integration
+- Mechanical assembly and debugging
 
 # Demo
 ![String Crawl Bot](./DSC03133.JPG)
 
 # License
-MIT License
+- MIT License
